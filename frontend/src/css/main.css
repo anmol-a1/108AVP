@@ -1,0 +1,46 @@
+.div12,.div13{
+    display:inline-block;
+    height: 400px;
+    width: 300px;
+    background-color: bisque;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+.inimg{
+    height: 300px;
+    width: 300px;
+    
+}
+.abcd{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+.div121{
+   margin-left: 100px;
+}
+.innerlink{
+    margin-left: 20px;
+}
+.abcd1{
+    width: 100vw;
+    background-color: rgb(96, 255, 104);
+    height: 100vh; 
+    
+    
+}
+.anmol{
+    max-width: 700px;
+    margin: 130px auto;
+    color: white;
+}
+.anmol1{
+    max-width: 1000px;
+    margin: 40px auto;
+    color: white;
+}
+.anmol2{
+    max-width: 1100px;
+    margin: 40px auto;
+    color: white;
+}
